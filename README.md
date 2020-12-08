@@ -15,3 +15,4 @@
 
 # other links
 * [从dart用http load wasm。](https://creativebracket.com/how-to-load-a-webassembly-file-in-dart-for-web/) 没实践。
+* [wasm](https://zhuanlan.zhihu.com/p/245967229)
